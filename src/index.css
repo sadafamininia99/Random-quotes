@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body{
+  /* font-family: 'Courier New', Courier, monospace; */
+  font-family: 'Patrick Hand', cursive;;
+  background-color: rgb(243 , 156 , 18);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}
+
+#footer{
+  margin-top: 1rem;
+  font-size:0.9rem;
+  color:white;
+  text-align: center;
+}
+
+#footer a{
+  color:white
+}
